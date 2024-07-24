@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sou programadora front end apaixonado por criar experiências digitais que cativam e inspiram os usuários. Com um forte background em desenvolvimento web, estou constantemente buscando maneiras de elevar o padrão do design e da interatividade online.</h2>
+<h2 align="left">Sou programadora front-end, apaixonada por criar experiências digitais que cativam e inspiram os usuários. Com um forte background em desenvolvimento web, estou constantemente buscando maneiras de elevar o padrão do design e da interatividade online.</h2>
 
 ###
 

@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">Me chamo Suzana Santos</p>
+<h2 align="left">Me chamo Suzana Santos</h2>
 
 ###
 
-<h2 align="left">Sou programadora front end apaixonado por criar experiências digitais que cativam e inspiram os usuários. Com um forte background em desenvolvimento web, estou constantemente buscando maneiras de elevar o padrão do design e da interatividade online.</h2>
+<h3 align="left">Sou programadora front-end apaixonada por criar experiências digitais que cativam e inspiram os usuários. Com um forte background em desenvolvimento web, estou constantemente buscando maneiras de elevar o padrão do design e da interatividade online.</h3>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente sou estudante de ADS<br>🎯 Metas: Me tornar FullStack<br>🎲 Curiosidade: Gamer</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.<br>🎯 Metas: Me tornar FullStack<br>🎲 Curiosidade: Gamer</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
